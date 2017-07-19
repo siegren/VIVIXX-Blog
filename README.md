@@ -7,3 +7,25 @@ This is a practice on how to create web application using Rails. This is a simpl
 ##### 2. You can add, view, and delete comment for each article. You will provide your name if you're going to comment to a certain article.
 ##### 3. There is authentication form where in you will enter a username and password if you want to delete an article or a comment.
 
+Screenshots
+
+### Main Page
+![Main](images/main.png)
+
+### Listing Article
+![Main](images/list.png)
+
+### New Article
+![Main](images/new.png)
+
+### Edit Article
+![Main](images/edit.png)
+
+### Show Artcile
+![Main](images/show.png)
+
+
+
+
+
+
